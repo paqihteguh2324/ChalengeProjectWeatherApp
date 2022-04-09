@@ -5,9 +5,11 @@ email : paqihteguh23@gmail.com
 Kelas Belajar : React Native
 
 #2
-link expo
+link Gdrive video demo
+https://drive.google.com/drive/folders/1UcqT_81MHqs88vhWCV5-UstS1ozL1YuO?usp=sharing
 
-
+link Youtube video demo
+https://youtu.be/kzYw2ppGMoM
 
 #3  
 link expo
