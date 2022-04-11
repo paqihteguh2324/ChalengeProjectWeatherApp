@@ -13,8 +13,7 @@ https://youtu.be/kzYw2ppGMoM
 
 #3  
 link expo
-https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40paqihteguh23/WeatherApp-cfbe0746be7045d588024056e09076ba-signed.apk
-
+https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40paqihteguh23/WeatherApp-355c29cce9aa40a69d728e5d38324151-signed.apk
 link Gdrive
 https://drive.google.com/drive/folders/1UcqT_81MHqs88vhWCV5-UstS1ozL1YuO?usp=sharing
 
