@@ -30,7 +30,17 @@ export default function Utama(route) {
       var date = new Date().getDate();
       var month = new Date().getMonth()+1;
       var year = new Date().getFullYear();
-      var hasil = year+'-0' + month+'-0'+date;
+      if (date > 9 ) {
+        var strip = '-'
+      }else{
+        var strip = '-0'
+      }
+      if (month > 9 ) {
+        var mth = '-'
+      }else{
+        var mth = '-0'
+      }
+      var hasil = year+ mth + month+ strip +date;
       var huruf = hasil.toString();
       var bisa = new Date(huruf);
       var formattedDate = format(bisa, "eeee,MMMM dd, yyyy");
@@ -46,7 +56,12 @@ export default function Utama(route) {
         }else{
           var strip = '-0'
         }
-      var hasil = year+'-0' + month+strip+date;
+        if (month > 9 ) {
+          var mth = '-'
+        }else{
+          var mth = '-0'
+        }
+      var hasil = year+ mth + month+strip+date;
       var huruf = hasil.toString();
       var bisa = new Date(huruf);
       var formattedDate = format(bisa, "eeee MM/dd");
